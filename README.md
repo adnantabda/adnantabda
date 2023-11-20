@@ -1,6 +1,8 @@
 ![Alt Text](header-Image.png)
 
-<span style="color:red">## **`Design-Minded Software Engineer | Python | MERN Stack | Django`**</span>
+<p align="center">
+  <strong><h2 style="color:red;">Design-Minded Software Engineer | Python | MERN Stack | Django</h2></strong>
+</p>
 
 ```python
 print(" Greetings and Welcome to My GitHub Profile  🤝 ") 
