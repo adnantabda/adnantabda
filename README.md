@@ -8,7 +8,7 @@
 print(" Greetings and Welcome to My GitHub Profile  🤝 ") 
 ``` 
 
-- 🎓 Currently learning Software Engineering at Haramaya University 🏫
+- 🎓 Currently learning Software Engineering at [Haramaya university](https://www.haramaya.edu.et/) 🏫
 
 - 🔍 Exploring various programming languages and technologies
 
@@ -16,7 +16,7 @@ print(" Greetings and Welcome to My GitHub Profile  🤝 ")
 
 - 💡 Open to collaboration and contributing to meaningful projects.
 
-- 🔗 Connect with me on LinkedIn: [https://www.linkedin.com/in/adnantabda/].
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/adnantabda/) to get in touch!
 
 - ⚓️ Hobbies: One Piece enthusiast (🐙), swimming, and reading documentation 📚
 
