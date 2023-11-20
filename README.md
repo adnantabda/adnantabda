@@ -5,7 +5,7 @@
 </p>
 
 ```python
-print(" Greetings and Welcome to My GitHub Profile  🤝 ") 
+print(" Greetings and Welcome to My GitHub Profile  👋 ") 
 ``` 
 
 - 🎓 Currently learning Software Engineering at [Haramaya university](https://www.haramaya.edu.et/) 🏫
