@@ -1,9 +1,10 @@
 # ❄️ Adnan Tahir ❄️
 
-**`Design-Minded Software Engineer || content creator || passionate Video Editor || Technologist`**
-
-Hello, fellow code enthusiasts! 🎉 I am Adnan Tahir, a passionate Software Developer and dedicated student at Haramaya University. Join me as I weave magic with code, creating innovative solutions and embarking on a thrilling journey towards success in the mesmerizing world of software engineering. Be prepared to be inspired by my unique blend of creativity, hard work, and love for learning – let the code adventure begin! 🚀🌐👨‍💻
 ![Alt Text](header-image.png)
+
+**`Design-Minded Software Engineer || Python || MERN stack|| Django || Expertly Integrating Aesthetics , Functionality, and MySQL DataBase `**
+
+## print("Hello, world! 🤝 ") 
 
 <h2>:mailbox: MY CONTACT INFORMATION! </h2>
 
