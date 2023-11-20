@@ -4,7 +4,7 @@
   <strong><h2 style="color:red;">Design-Minded Software Engineer | Python | MERN Stack | Django</h2></strong>
 </p>
 
-## ```python
+```python
 print(" Greetings and Welcome to My GitHub Profile  👋 ") 
 ``` 
 
