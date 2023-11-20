@@ -7,14 +7,21 @@ print(" Greetings and Welcome to My GitHub Profile  🤝 ")
 ``` 
 
 - 🎓 Currently learning Software Engineering at Haramaya University 🏫
+
 - 🔍 Exploring various programming languages and technologies
+
 - 🌱 Building projects to enhance my coding skills
+
 - 💡 Open to collaboration and contributing to meaningful projects.
+
 - 🔗 Connect with me on LinkedIn: [https://www.linkedin.com/in/adnantabda/].
+
+- ⚓️ Hobbies: One Piece enthusiast (🐙), swimming, and reading documentation 📚
+
 
 <h2>:mailbox: MY CONTACT INFORMATION! </h2>
 
-[![Twitter Badge](https://img.shields.io/badge/-@AdnanTahir-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adnantabda)](https://twitter.com/adnantabda)          [![Linkedin Badge](https://img.shields.io/badge/-ADNAN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnantabda/)            [![Mail Badge](https://img.shields.io/badge/-@adnantahir-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/adnantabda)            
+[![Twitter Badge](https://img.shields.io/badge/-@AdnanTahir-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adnantabda)](https://twitter.com/adnantabda)                            [![Linkedin Badge](https://img.shields.io/badge/-ADNAN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnantabda/)                              [![Mail Badge](https://img.shields.io/badge/-@adnantahir-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/adnantabda)            
 
 <h1> my github status! </h1>
 
