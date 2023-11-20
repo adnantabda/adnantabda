@@ -1,6 +1,4 @@
-# ❄️ Adnan Tahir ❄️
-
-![Alt Text](header-image.png)
+![Alt Text](header-Image.png)
 
 ## **` Design-Minded Software Engineer | Python | MERN Stack | Django `**
 
@@ -8,9 +6,15 @@
 print(" Greetings and Welcome to My GitHub Profile  🤝 ") 
 ``` 
 
+- 🎓 Currently learning Software Engineering at Haramaya University 🏫
+- 🔍 Exploring various programming languages and technologies
+- 🌱 Building projects to enhance my coding skills
+- 💡 Open to collaboration and contributing to meaningful projects.
+- 🔗 Connect with me on LinkedIn: [https://www.linkedin.com/in/adnantabda/].
+
 <h2>:mailbox: MY CONTACT INFORMATION! </h2>
 
-[![Twitter Badge](https://img.shields.io/badge/-@AdnanTahir-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adnantabda)](https://twitter.com/adnantabda)[![Linkedin Badge](https://img.shields.io/badge/-ADNAN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnantabda/) [![Mail Badge](https://img.shields.io/badge/-@adnantahir-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/adnantabda) [![Mail Badge](https://img.shields.io/badge/-adnantahirabdah-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:adnantahirabdah@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@AdnanTahir-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adnantabda)](https://twitter.com/adnantabda)          [![Linkedin Badge](https://img.shields.io/badge/-ADNAN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnantabda/)            [![Mail Badge](https://img.shields.io/badge/-@adnantahir-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/adnantabda)            
 
 <h1> my github status! </h1>
 
