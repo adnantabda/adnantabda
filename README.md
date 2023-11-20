@@ -2,10 +2,10 @@
 
 ![Alt Text](header-image.png)
 
-**`Design-Minded Software Engineer || Python || MERN stack|| Django || Expertly Integrating Aesthetics , Functionality, and MySQL DataBase `**
+## **` Design-Minded Software Engineer | Python | MERN Stack | Django `**
 
 ```python
-print("Hello, world! 🤝 ") 
+print(" Greetings and Welcome to My GitHub Profile  🤝 ") 
 ``` 
 
 <h2>:mailbox: MY CONTACT INFORMATION! </h2>
