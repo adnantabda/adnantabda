@@ -35,6 +35,7 @@ print(" Greetings and Welcome to My GitHub Profile  👋 ")
    </p>
 
 <h2>🧰 Languages and Tools</h2>
+<img align="left" width="45%" src="Images/20231204_230505.png" />
  
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -49,8 +50,13 @@ print(" Greetings and Welcome to My GitHub Profile  👋 ")
 <br />
 <br />
  
-<h2>⚡ Stats<h2>
+<h2>⚡ Status<h2>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=adnantabda&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnantabda&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true" />
+<img align="left" width="22%" src="Images/20231204_223800.png" />
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnantabda&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true" /> -->
+
+
+
+<h2>Us<h2>
