@@ -57,6 +57,3 @@ print(" Greetings and Welcome to My GitHub Profile  👋 ")
 <img align="left" width="22%" src="Images/20231204_223800.png" />
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnantabda&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true" /> -->
 
-
-
-<h2>Us<h2>
