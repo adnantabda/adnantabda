@@ -1,4 +1,3 @@
-![Alt Text](header-Image.png)
 <img src="header.svg">
 
 <p align="center">
