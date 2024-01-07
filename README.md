@@ -1,4 +1,5 @@
 ![Alt Text](header-Image.png)
+<img src="header.svg">
 
 <p align="center">
   <strong><h2 style="color:red;">Design-Minded Software Engineer | Python | MERN Stack | Django</h2></strong>
