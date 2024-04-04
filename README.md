@@ -1,7 +1,7 @@
 ![Alt Text](header-Image.png)
 
 <p align="center">
-  <strong><h2 style="color:red;">Design-Minded Software Engineer | Python | MERN Stack | Django</h2></strong>
+  <strong><h2 style="color:red;">Design-Minded Software Engineer | Python | Javascript </h2></strong>
 </p>
 
 ```python
