@@ -2,17 +2,20 @@
   <strong><h2>Design-Minded Software Engineer | Python | Javascript | UX/UI design  </h2></strong>
 </p>
 
-
 <table style="width: 100%;">
   <tr>
-    <td style="width: 50%; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=adnantabda&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="Adnan Git Status" style="width: 40%;">
+    <td style="text-align: center;">
+      <img src="header-Image.png" alt="Alt Text" style="max-width: 100%;">
     </td>
-    <td style="width: 100%; text-align: center;">
-      <img src="header-Image.png" alt="Alt Text" style="width: 60%;">
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=adnantabda&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="Adnan Git Status" style="max-width: 100%;">
     </td>
   </tr>
 </table>
+
+
 
 
 
