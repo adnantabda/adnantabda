@@ -2,17 +2,24 @@
   <strong><h2>Design-Minded Software Engineer | Python | Javascript | UX/UI design  </h2></strong>
 </p>
 
-
 <table style="width: 100%;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=adnantabda&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="Adnan Git Status" style="width: 100%; max-width: 100%;">
+      <img id="github-stats" src="https://github-readme-stats.vercel.app/api?username=adnantabda&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="Adnan Git Status">
     </td>
     <td style="width: 50%; text-align: center;">
-      <img src="header-Image.png" alt="Alt Text" style="max-width: 50%;">
+      <img id="header-image" src="header-Image.png" alt="Alt Text">
     </td>
   </tr>
 </table>
+
+<style>
+  /* Define specific widths for the images */
+  #github-stats, #header-image {
+    width: 100%;
+    max-width: 100%;
+  }
+</style>
 
 
 
