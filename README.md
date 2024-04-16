@@ -14,10 +14,12 @@
 </table>
 
 <style>
-  /* Define specific widths for the images */
+  /* Define maximum width and height for the images while maintaining aspect ratio */
   #github-stats, #header-image {
-    width: 100%;
     max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
   }
 </style>
 
