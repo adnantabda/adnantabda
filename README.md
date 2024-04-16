@@ -1,57 +1,37 @@
-![Alt Text](header-Image.png)
-
 <p align="center">
-  <strong><h2 style="color:red;">Design-Minded Software Engineer | Python | Javascript </h2></strong>
+  <strong><h2>Design-Minded Software Engineer | Python | Javascript | UX/UI design  </h2></strong>
 </p>
 
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 40%; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=adnantabda&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="Adnan Git Status" style="width: 100%; max-width: 100%;">
+    <td style="width: 60%; text-align: center;">
+      <img src="header-image.png" alt="Alt Text" style="width: 100%; max-width: 100%;">
+    </td>
+    </td>
+  </tr>
+</table>
+
 ```python
-print(" Greetings and Welcome to My GitHub Profile  👋 ") 
+print(" Greetings and Welcome to My GitHub 👋 ") 
 ``` 
+<p style="font-size: 18px"align="left">  I am a Software Engineering student at <a href="https://www.haramaya.edu.et/">Haramaya University <a>🎓, where I am passionately exploring various programming languages and technologies. Currently, I am engaged in building 🌱 projects to enhance my coding skills and contribute meaningfully to the tech community . I am open to collaboration and eager to contribute to impactful projects. 🔗 Connect with me on <a href="https://www.linkedin.com/in/adnantabda/">LinkedIn</a> to get in touch we can have a fist bump! When I'm not coding, you can find me indulging in my hobbies: being a One Piece enthusiast (☠️), swimming, and reading documentation. 📚</p>
 
-- 🎓 Currently learning Software Engineering at [Haramaya university](https://www.haramaya.edu.et/) 🏫
-
-- 🔍 Exploring various programming languages and technologies
-
-- 🌱 Building projects to enhance my coding skills
-
-- 💡 Open to collaboration and contributing to meaningful projects.
-
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/adnantabda/) to get in touch!
-
-- ⚓️ Hobbies: One Piece enthusiast (🐙), swimming, and reading documentation 📚
-
-
-<h2>:mailbox: MY CONTACT INFORMATION! </h2>
-
-[![Twitter Badge](https://img.shields.io/badge/-@AdnanTahir-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adnantabda)](https://twitter.com/adnantabda)                            [![Linkedin Badge](https://img.shields.io/badge/-ADNAN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnantabda/)                              [![Mail Badge](https://img.shields.io/badge/-@adnantahir-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/adnantabda)            
-
-<h1> my github status! </h1>
-
-<p align="left">
-      <a href="https://github.com/adnantabda?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/adnantabda?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/adnantabda?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/adnantabda?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
 
 <h2>🧰 Languages and Tools</h2>
-<img align="left" width="45%" src="Images/20231204_230505.png" />
  
-<img align="left" alt="Visual Studio Code" width="26px" style="padding: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="HTML" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Git" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img src="https://skillicons.dev/icons?i=js,py,css,html,sass,git,webpack,figma,mysql,bootstrap,github,vscode,pycharm,npm" /> 
+  
+  <!-- <img src="https://skillicons.dev/icons?i=figma,mysql,bootstrap,github,vscode,pycharm,npm" /> -->
 <br />
 <br />
  
-<h2>⚡ Status<h2>
+<h2>⚡ Github Stats<h2>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=adnantabda&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+| Most used languages                                                                                                                                                   | Streaks <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnantabda&show_icons=true&theme=dark&hide_title=true) | ![Adnantabda](https://github-readme-streak-stats.herokuapp.com/?user=adnantabda&theme=dark) |
 
-<img align="left" width="22%" src="Images/20231204_223800.png" />
-<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnantabda&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true" /> -->
 
+<br>
