@@ -9,7 +9,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=adnantabda&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="Adnan Git Status" style="width: 100%; max-width: 100%;">
     </td>
     <td style="width: 50%; text-align: center;">
-      <img src="header-Image.png" alt="Alt Text" style="max-width: 100%;">
+      <img src="header-Image.png" alt="Alt Text" style="max-width: 50%;">
     </td>
   </tr>
 </table>
