@@ -3,12 +3,7 @@
 </p>
 
 <table style="width: 100%;">
-<style>
-  @font-face {
-    font-family: 'Exo-DomiBold';
-    src: url('Exo-DomiBold.otf') format('opentype');
-  }
-</style>
+
 
 <tr> 
   <td style="font-family: 'Exo-DomiBold', sans-serif; width: 40%">
