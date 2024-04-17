@@ -1,26 +1,9 @@
-<p align="center">
   <strong><h2>Design-Minded Software Engineer | Python | Javascript | UX/UI design  </h2></strong>
-</p>
-
-<table style="width: 100%;">
-
-
-<tr> 
-  <td style="font-family: 'Exo-DomiBold', sans-serif; width: 40%">
-    <h2 align='center'>Heya! 👋</h2>
-    <p align="center">
+  <strong> <h2 style="align:center; display: inline">Heya!👋</h2>
       Welcome Let us merge and create something Awesome
-    </p>
-  </td>
-  <td style="text-align: center; width= 60%">
-    <img src="header-Image.png" alt="Alt Text" style="max-width: 100%;">
-  </td>
-</tr>
-</table>
+</strong>
 
-
-
-
+<img src="header-Image.png" alt="Alt Text" style="max-width: 100%;">
 
 
 ```python
