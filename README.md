@@ -3,16 +3,24 @@
 </p>
 
 <table style="width: 100%;">
-  <tr>
-    <td style="text-align: center;">
-      <img src="header-Image.png" alt="Alt Text" style="max-width: 100%;">
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=adnantabda&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="Adnan Git Status" style="max-width: 100%;">
-    </td>
-  </tr>
+<style>
+  @font-face {
+    font-family: 'Exo-DomiBold';
+    src: url('Exo-DomiBold.otf') format('opentype');
+  }
+</style>
+
+<tr> 
+  <td style="font-family: 'Exo-DomiBold', sans-serif; width: 40%">
+    <h2 align='center'>Heya! 👋</h2>
+    <p align="center">
+      Welcome Let us merge and create something Awesome
+    </p>
+  </td>
+  <td style="text-align: center; width= 60%">
+    <img src="header-Image.png" alt="Alt Text" style="max-width: 100%;">
+  </td>
+</tr>
 </table>
 
 
