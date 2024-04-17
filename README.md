@@ -1,7 +1,7 @@
-  <strong><h2>Design-Minded Software Engineer | Python | Javascript | UX/UI design  </h2></strong>
-  <strong> <h2 style="align:center; display: inline">Heya!👋</h2>
-      Welcome Let us merge and create something Awesome
+  <strong> <h2 style="align:center; display: inline">Heya!👋
+      Welcome Let us merge and create something Awesome </h2>
 </strong>
+  <strong><h4>Design-Minded Software Engineer | Python | Javascript | UX/UI design  </h4></strong>
 
 <img src="header-Image.png" alt="Alt Text" style="max-width: 100%;">
 
