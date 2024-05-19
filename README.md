@@ -7,7 +7,7 @@
 
 
 ```python
-print(" Good Programmers code for the joy of programming , not for money or fame  ") 
+print(" Good programmers plan & Design meticulously before they start coding.  ") 
 ``` 
 <p style="font-size: 18px"align="left">  I am a Software Engineering student at <a href="https://www.haramaya.edu.et/">Haramaya University <a>🎓, where I am passionately exploring various programming languages and technologies. Currently, I am engaged in building 🌱 projects to enhance my coding skills and contribute meaningfully to the tech community . I am open to collaboration and eager to contribute to impactful projects. 🔗 Connect with me on <a href="https://www.linkedin.com/in/adnantabda/">LinkedIn</a> to get in touch we can have a fist bump! When I'm not coding, you can find me indulging in my hobbies: being a One Piece enthusiast (☠️), swimming, and reading documentation. 📚</p>
 
