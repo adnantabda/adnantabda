@@ -36,7 +36,7 @@
 </div>
 
 
-<h3 align="left">🔥 My streak stats </h3>
+<h3 align="center">🔥 My streak stats </h3>
 
 ###
 
