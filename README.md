@@ -13,6 +13,12 @@
 ###
 
 <div style="display: flex;flex-direction: column;">
+<p align="center">
+<a href="https://twitter.com/adnantabda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adnantabda" height="30" width="40" /></a>
+<a href="https://instagram.com/adnantabda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adnan tahir" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/adnantabda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adnantabda" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adnantahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adnan tahir" height="30" width="40" /></a>
+</p>
   <a href="https://www.linkedin.com/in/adnantabda/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
